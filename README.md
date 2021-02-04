@@ -16,8 +16,8 @@ train: `95.476`, val: `87.650`;
 train: `0.132`, val: `0.430`.    
 **Графики:**    
 <p float="left">
-  <img src="/accuracy_new.png" width="350" />
-  <img src="/losses_new.png" width="350" />
+  <img src="/accuracy_pruned.png" width="350" />
+  <img src="/losses_pruned.png" width="350" />
 </p>
 
 ## Требования к установке
